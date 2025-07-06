@@ -1,1 +1,2 @@
-# .github
+# fruit jams
+we make game :)
